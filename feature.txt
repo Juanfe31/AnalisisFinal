@@ -1,3 +1,5 @@
 Canbio desde TokeNew
 
 detecto bug
+
+bug arreglado
